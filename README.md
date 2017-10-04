@@ -17,5 +17,7 @@ TeamHambre Game
     spawn amount per wave and speed.
     
   Controls:
+
     Gorilla: Arrow keys for movement, spacebar to shoot bananas. 
+
     Chicken: Numberpad for movement, enter to shoot eggs.
