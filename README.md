@@ -1,8 +1,10 @@
 # CollegeProjects
 Repository for various college projects
 
-TeamHambre:
+TeamHambre Game
+
   Description:
+
     Run TeamHambre.java using your farvorite Java compiler to play the game. 
 
     The goal is to survive for long as possible against the endless waves of enemies. 
